@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I really don't work<br>🤝 I like team work<br>🌱 I am currently learning data analysis with python<br>⚡i like video game watch movies
+ I like team work<br>🌱 I am currently learning data analysis with python<br>⚡i like video game watch movies
 
 
 
